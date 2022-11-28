@@ -41,3 +41,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ano1herengineer&show_icons=true&locale=en" alt="ano1herengineer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ano1herengineer&" alt="ano1herengineer" /></p>
+
+## Watch my contribution graph got eaten by a snake 🐍
+![snake gif](https://github.com/ano1herengineer/ano1herengineer/blob/output/github-contribution-grid-snake.gif)
