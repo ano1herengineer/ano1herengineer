@@ -1,46 +1,69 @@
-
-<h1 align="center">Hi 👋, I'm PRASHANT SINGH</h1>
-<h3 align="center">A passionate FULL STACK developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611aff3550a28dd6d30e91aefbc578f59dc7a98197f&rid=giphy.gif&ct=g">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ano1herengineer&label=Profile%20views&color=0e75b6&style=flat" alt="ano1herengineer" /> </p>
-
-<p align="left"> <a href="https://twitter.com/prashan1singh" target="blank"><img src="https://img.shields.io/twitter/follow/prashan1singh?logo=twitter&style=for-the-badge" alt="prashan1singh" /></a> </p>
-
-- 🔭 I’m currently working on **meetgeek**
-
-- 🌱 I’m currently learning **web3 , Android**
-
-- 📝 I regularly write articles on [https://hashnode.com/@ano1herengineer](https://hashnode.com/@ano1herengineer)
-
-- 💬 Ask me about **WEB DEVELOPMENT**
-
-- 📫 How to reach me **singhprashantyolo@gmail.com**
-
-- ⚡ Fun fact **10:? "ha" 20:GOTO 10**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/ano1herengineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ano1herengineer" height="30" width="40" /></a>
-<a href="https://twitter.com/prashan1singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prashan1singh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ano1herengineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ano1herengineer" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ano1herengineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ano1herengineer" height="30" width="40" /></a>
-<a href="https://instagram.com/pr.a.shant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pr.a.shant" height="30" width="40" /></a>
-<a href="https://hashnode.com/@ano1herengineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ano1herengineer" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/anonengineer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anonengineer" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/singhprashant23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="singhprashant23" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/anonengineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="anonengineer" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ano1herengineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ano1herengineer" height="30" width="40" /></a>
+<h1 align="center">Prashant Singh</h1>
+<h3 align="center">SAP ABAP Developer | Enterprise Development, Reporting & Enhancements</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ano1herengineer&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ano1herengineer&show_icons=true&locale=en&layout=compact" alt="ano1herengineer" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ano1herengineer&show_icons=true&locale=en" alt="ano1herengineer" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ano1herengineer&" alt="ano1herengineer" /></p>
-
-## Watch my contribution graph got eaten by a snake 🐍
-![snake gif](https://github.com/ano1herengineer/ano1herengineer/blob/output/github-contribution-grid-snake.gif)
+I’m an SAP ABAP Developer focused on developing, enhancing, and supporting custom solutions in SAP ERP environments. My technical work spans ABAP reports, ALV, Dictionary objects, enhancements, forms, interfaces, and archive-aware data retrieval.
+I value safe, maintainable changes: understanding existing business logic, preserving current behavior, following naming and coding standards, and adding new functionality where it belongs rather than restructuring working code unnecessarily.
+Core Technical Skills
+ABAP Development
+Classic ABAP reports, selection screens, modularization, includes, and subroutines.
+ABAP Dictionary (DDIC): tables, structures, domains, data elements, and related repository objects.
+Open SQL, internal tables, field symbols, work areas, data references, and dynamic data handling where required.
+Modern ABAP syntax introduced in 7.40+, applied where supported by the target system.
+Object-oriented ABAP fundamentals: classes, methods, interfaces, and reusable logic.
+Reporting & User Interaction
+Classical and interactive ALV reporting, including `REUSE_ALV_GRID_DISPLAY`.
+Selection and validation logic, data preparation, calculations, totals, and output troubleshooting.
+Module pool programming and Dynpro fundamentals.
+Enhancements & Integration
+Implicit and explicit enhancement points, customer exits, user exits, and BAdIs.
+BDC and BAPI-based integration patterns.
+File handling and data conversion / migration concepts.
+Forms & Output
+Smart Forms and form-driven output.
+Label-printing concepts, including Data Matrix / QR-code integration.
+Data Archiving & Archive-Aware Reporting
+Integrating archived records into existing reports while preserving online-data behavior.
+Working with archive index tables, archive keys and offsets, and a reusable archive-reader class.
+Deduplicating archive pointers, requesting relevant archived structures, and applying business filters after retrieval.
+Designing write and delete program flows for custom-table archiving.
+Debugging & Performance Analysis
+ABAP Debugger for tracing program flow and investigating data issues.
+SAT runtime analysis, ST05 SQL trace, DB05, and Code Inspector as appropriate to the problem.
+Reviewing Open SQL access patterns, guarding `FOR ALL ENTRIES` against empty driver tables, and diagnosing online-versus-archive result differences.
+Development Principles
+Preserve existing behavior: make focused changes and avoid unnecessary rewrites.
+Readable, standards-aligned ABAP: use consistent naming, clear modularization, and comments for newly added functionality.
+Reliable data retrieval: validate driver tables, key mappings, selection conditions, and duplicate handling.
+Traceable troubleshooting: reproduce the issue, debug the data flow, and validate the final report output.
+Confidentiality: share reusable technical patterns and learning examples without exposing employer or client-specific implementation details.
+Current Learning Focus — Modern ABAP
+I’m continuing to build toward modern SAP development practices, including:
+CDS Views and data modeling for SAP HANA.
+OData services and service-based integration.
+RESTful ABAP Programming Model (RAP) and its role in transactional applications and services.
+ABAP Cloud, Clean Core, and released APIs for upgrade-stable extensions.
+ABAP Development Tools (ADT) in Eclipse, plus stronger use of ABAP Unit and ABAP Test Cockpit (ATC).
+The wider SAP application landscape, including Fiori integration, Adobe Forms, SAPscript, BRF+, and Web Dynpro.
+Connect
+<p align="left">
+  <a href="https://linkedin.com/in/ano1herengineer" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:singhprashantyolo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://hashnode.com/@ano1herengineer" target="blank">
+    <img src="https://img.shields.io/badge/Hashnode-Articles-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
+  </a>
+  <a href="https://stackoverflow.com/users/ano1herengineer" target="blank">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+</p>
+GitHub Activity
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ano1herengineer&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
+</p>
+---
+<p align="center"><i>Learning continuously. Building thoughtfully. Keeping SAP solutions reliable and maintainable.</i></p>
